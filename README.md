@@ -12,8 +12,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leeynyker&count_private=false&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,7 +27,6 @@
 
 [<img align="left" alt="gmail" src= "https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="instagram" src= "https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />][insta]
-
 
 
 
