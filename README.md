@@ -18,7 +18,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leeynyker&count_private=true&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeynyker&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeynyker&count_private=false&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
