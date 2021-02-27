@@ -1,4 +1,4 @@
-## Hi! Soy Leeynyker 👋
+## Hi! Soy Leeynyker 👋🏾
 
 ### Estudiante de ingeniería de sistemas 🌱
 ###### Universidad Distrital Francisco José de Calda
@@ -7,7 +7,9 @@
 
 ## Stacks :zap:
 <img align="left" alt="python"  width="30px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<!--
 <img align="left" alt="ruby"  width="30px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
+-->
 <img align="left" alt="html"  width="30px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <br>
@@ -15,10 +17,10 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leeynyker&count_private=true&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leeynyker&count_private=true&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/Leeynyker)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeynyker&count_private=false&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeynyker&count_private=true&layout=compact&theme=dark)](https://github.com/Leeynyker)
 
 <br>
 <br>
