@@ -1,11 +1,10 @@
 <!-- ## Hi! Soy Leeynyker 👋🏾 -->
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4000&center=true&vCenter=true&lines=Hello+there!+👋🏾;My+name+is+Leeynyker;Welcome+to+my+GitHub!">
-</h1>
-
-<p align="center">
-Programming lover, junior developer (frontend), Systems engineering student
-</p>
+</div>
+<h3 align="center">
+Programming lover, junior developer, Systems engineering student
+</h3>
 <br>
 
 ## Stacks :zap:
@@ -21,10 +20,9 @@ Programming lover, junior developer (frontend), Systems engineering student
 <br>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeynyker&count_private=true&layout=compact&theme=dark)](https://github.com/Leeynyker)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leeynyker&count_private=true&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/Leeynyker)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeynyker&count_private=true&layout=compact&theme=dark)](https://github.com/Leeynyker)
 
 <br>
 <br>
